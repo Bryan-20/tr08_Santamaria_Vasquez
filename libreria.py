@@ -152,4 +152,5 @@ def descuento_valido(tipo, prestamo):
         return 0.10 * prestamo
     else:
         return 0
+#fin_descuento
 
